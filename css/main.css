@@ -9,6 +9,9 @@ html {
   box-sizing: border-box;
 }
 
+.blue {
+  background: blue;
+}
 *, *::before, *::after {
   box-sizing: inherit;
 }
@@ -18,8 +21,12 @@ body {
   background-color: #FC7D5D;
 }
 
-h1 {
+.playfair {
   font-family: 'Playfair Display', serif;
   color: #fff;
-  text-size: 20em;
+}
+
+.superextrahuge {
+  font-size: 8rem;
+  line-height: 2.925rem;
 }
