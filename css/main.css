@@ -13,6 +13,7 @@ body {
 }
 
 @media only screen and (min-width: 38em) {
+
   .playfair {
     color: #fc7d5d;
   }
@@ -24,9 +25,11 @@ body {
   .raleway {
     color: #929195;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
+
   .playfair {
     color: #fff;
   }
@@ -38,4 +41,5 @@ body {
   .raleway {
     color: #fff;
   }
+
 }
